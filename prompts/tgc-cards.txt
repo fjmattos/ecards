@@ -28,3 +28,5 @@ totalCardsInCollection
 Now create a initial seed to all tables with tcg pokemon. generate insert scripts
 
 generate 20 insert records to table tbl_cards
+
+bring all the information from tbl_cards replacing it with the names of the foreign keys save this in a view for postgresql
